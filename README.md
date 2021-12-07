@@ -5,9 +5,9 @@ Now, here I am, freshly graduated from the web dev coding bootcamp @Le Wagon fro
 and eager to keep exploring this brave new coding world 🔭 🤩
 
 - 🌱 I’m currently learning ...
--- Testing in Rails
--- Background Jobs & Sidekiq
--- API Seeds
+  - Testing in Rails
+  - Background Jobs & Sidekiq
+  - API Seeds
 
 <!--
 **ndgdl/ndgdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
