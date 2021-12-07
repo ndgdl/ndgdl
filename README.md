@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Nicolas 👋
+
+I was working as a project manager and few years as a manager for a mobile app. I enjoyed working closely with devs througout this whole experience and it was there that I first discovered RUBY.
+Now, here I am, freshly graduated from the web dev coding bootcamp @Le Wagon from batch #731 💪
+and eager to keep exploring this brave new coding world 🔭 🤩
+
+- 🌱 I’m currently learning ...
+-- Testing in Rails
+-- Background Jobs & Sidekiq
+-- API Seeds
 
 <!--
 **ndgdl/ndgdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +15,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
